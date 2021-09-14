@@ -1,0 +1,29 @@
+/*reset setup*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/*logo+banner*/
+.container{
+    margin: 10px auto;
+}
+
+.logo{
+    height: 50px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.logo-text{
+    font-size: 35px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+/*main content*/
+.central-body{
+    
+}
