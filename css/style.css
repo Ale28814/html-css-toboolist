@@ -29,10 +29,6 @@
 
 /*main content*/
 
-.button-todolist{
-    
-}
-
 .todolist-button{
     background-color: white;
     width: 800px;
@@ -40,7 +36,6 @@
     position: absolute;
     top: 20%;
     left: 20%;
-    border-radius: 4px solid black;
     padding: 12px 0 0 40px;
 }
 
@@ -57,4 +52,65 @@ hr{
 .section-button{
     color: grey;
     padding: 4px;
+}
+
+/*list item*/
+.todolist-item{
+    background-color: white;
+    width: 800px;
+    height: 400px;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    border-radius: 4px solid black;
+    padding: 30px 0 0 40px;
+    margin-top: 51px;
+}
+
+/*sign + button changes*/
+
+
+.check{
+    color: green;
+}
+
+.edit-btn{
+    background-color: aqua;
+    color: white;
+    border-radius: 8px;
+}
+
+.delete{
+    color: red;
+    font-size: 10px;
+}
+
+.goals-btn{
+    color: white;
+    background-color: purple;
+    border-radius: 8px;
+}
+
+.recr-btn{
+    color: white;
+    background-color: green;
+    border-radius: 8px;
+}
+
+.mob-btn{
+    color: white;
+    background-color: orange;
+    border-radius: 8px;
+}
+
+.web-btn{
+    color: white;
+    background-color: pink;
+    border-radius: 8px;
+}
+
+.sales-btn{
+    color: white;
+    background-color: green;
+    border-radius: 8px;
 }
