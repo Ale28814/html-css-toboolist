@@ -5,16 +5,20 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+ body{
+    background-color: #C1CDCD;
+ }
 
 /*logo+banner*/
 .container{
-    margin: 10px auto;
+    background-color: white;
 }
 
 .logo{
     height: 50px;
     vertical-align: middle;
     margin-left: 10px;
+    margin-bottom: 10px;
 }
 
 .logo-text{
@@ -25,7 +29,7 @@
 
 /*main content*/
 .central-body{
-    background-color: #C1CDCD;
+    
 }
 
 .todolist{
