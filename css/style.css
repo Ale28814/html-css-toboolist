@@ -30,10 +30,25 @@
 
 .todolist{
     background-color: white;
-    margin-top: 20px;
-    width: 50% auto;
+    width: 700px;
+    height: 200px;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    border-radius: 4px solid black;
 }
 
 hr{
     margin: 5px 0 5px 0;
+}
+
+.task-button{
+    color: white;
+    background-color: blue;
+    padding: 4px;
+}
+
+.section-button{
+    color: grey;
+    padding: 4px;
 }
